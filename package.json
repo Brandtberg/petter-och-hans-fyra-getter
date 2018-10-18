@@ -7,8 +7,8 @@
     "build": "tsc",
     "test": "mocha -r ts-node/register index.spec.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["petter", "getter", "röd", "blå", "gul", "vit"],
+  "author": "Olof Rappestad <olof.rappestad@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.1.6",
